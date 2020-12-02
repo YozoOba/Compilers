@@ -1,0 +1,69 @@
+Begin a comment:
+*
+I'm a function
+
+this comment End!
+INT 3 int
+ID 68 f 0
+LP 39 (
+RP 40 )
+LC 35 {
+INT 3 int
+ID 68 a 1
+SEMI 66 ;
+ID 68 a 1
+EQUAL 58 =
+NUMBER 69 0
+SEMI 66 ;
+WHILE 9 while
+LP 39 (
+ID 68 a 1
+RELL 52 <
+NUMBER 69 10
+RP 40 )
+LC 35 {
+ID 68 a 1
+ASSIGNSTAR 60 *=
+NUMBER 69 2
+SEMI 66 ;
+RC 36 }
+RETURN 6 return
+ID 68 a 1
+SEMI 66 ;
+RC 36 }
+INT 3 int
+ID 68 main 2
+LP 39 (
+RP 40 )
+LC 35 {
+INT 3 int
+ID 68 a 1
+SEMI 66 ;
+ID 68 a 1
+EQUAL 58 =
+NUMBER 69 0
+SEMI 66 ;
+IF 10 if
+LP 39 (
+ID 68 a 1
+EQUOP 54 ==
+NUMBER 69 0
+RP 40 )
+LC 35 {
+INT 3 int
+ID 68 a 1
+SEMI 66 ;
+ID 68 a 1
+EQUAL 58 =
+ID 68 a 1
+PLUS 48 +
+NUMBER 69 1
+SEMI 66 ;
+RC 36 }
+Begin a comment:
+Comment line 
+ this comment End!
+RETURN 6 return
+NUMBER 69 0
+SEMI 66 ;
+RC 36 }
